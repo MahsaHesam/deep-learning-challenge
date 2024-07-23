@@ -22,8 +22,6 @@ This study will develop a deep learning-based model to classify Alphabet Soup-fu
   SPECIAL_CONSIDERATIONS,
   ASK_AMT.
 
-  
-- What variable(s) are the features for your model?
 - What variable(s) should be removed from the input data because they are neither targets nor features?
 
 EIN
